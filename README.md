@@ -51,3 +51,13 @@
 | [<img src="https://github.com/http-sallein.png" height="90px">](https://github.com/http-sallein) | Isaac Lima de Andrade | <div> [<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/http-sallein) <br/> [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devsallein) <br/> [<img src="https://img.shields.io/badge/-Instagram-hotpink?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/http.zaclimaaxs/) </div> |
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="25" height="25" /> Agradecimentos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" />
+
+<div>
+    
+<img src="https://github.com/user-attachments/assets/393bcc57-f033-43a7-a86f-8d5748e82d5f" width='33%'/>
+<img src="https://github.com/user-attachments/assets/bb5c41ac-4acb-4b69-bd6c-3402fd06e2c4" width='33%'/>
+<img src="https://github.com/user-attachments/assets/c824db42-5bdd-4908-a678-65b57917b1e5" width='33%'/>
+
+</div>
+
+
