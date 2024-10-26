@@ -6,9 +6,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> Tecnologias utilizadas
 
-<img src="https://img.shields.io/badge/html-orange.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<div>
+    <img src="https://img.shields.io/badge/html-orange.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> Organização de pastas
