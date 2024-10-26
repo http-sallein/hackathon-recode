@@ -1,4 +1,4 @@
-# hackathon-recode
+# hackathon-recode | Equipe 25
 
 ![img](https://img.shields.io/github/license/http-sallein/hackathon-recode.svg)
 ![img](https://img.shields.io/github/release/http-sallein/hackathon-recode.svg)
