@@ -8,14 +8,23 @@
 
 :root { 
 
-    --primary-green: #77FF77;
+    font-size: 16px;
+
+    --primary-green: #59a959;
     --primary-yellow: #FFFF55;
 
-    --cor-texto: #1C1C1C;
+    --text-color: #1C1C1C;
 }
 
 body {
-
-    color: var(--cor-texto);
+    color: var(--text-color);
     font-family: "Lexend Deca", serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
 }
