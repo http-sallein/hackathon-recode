@@ -39,8 +39,8 @@ header {
 
         > figure {
 
-            height: 60px;
-            width: 60px;
+            height: 78px;
+            width: 78px;
 
             > img {
 
@@ -128,10 +128,7 @@ main {
                 font-size: 1.3rem;
                 color: var(--primary-green);
                 font-weight: 500;
-                 
-                > img {
-                    margin-bottom: -3px;
-                }
+   
             }
 
         }
