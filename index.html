@@ -6,9 +6,37 @@
         <title>Hackathon</title>
 
         <link rel="stylesheet" href="global.css">
+        <link rel="stylesheet" href="./index.css">
+
+        <script src="./index.js" defer></script>
     </head>
 
     <body>
-        
+        <div class="= container" id="login-container">
+            <h2>Login</h2>
+            <form action="/login" method="post">
+                <input type="text" name="username" placeholder="Usuário ou E-mail" required>
+                <input type="senha" name="senha" placeholder="senha" required>
+                <button type="submit">Entrar</button>
+            </form>
+            <div class="toggle">
+                <p>Não possui um cadastro? <a href="#">Cadastre-se aqui</a></p>
+            </div>
+        </div>
+
+        <div class="container" id="register-container" style="display: none;">
+            <h2>Cadastro</h2>
+            <form action="/register" method="POST">
+                <input type="text" name="nome" placeholder="Nome Completo" required>
+                <input type="email" name="email" placeholder="E-mail" required>
+                <input type="password" name="password" placeholder="Senha" required>
+                <input type="text" name="endereco" placeholder="Endereço" required>
+                <input type="text" name="telefone" placeholder="Telefone" required>
+                <button type="submit">Cadastrar</button>
+            </form>
+            <div class="toggle">
+                <p>Já tem uma conta? <a href="#" >Faça login aqui</a></p>
+            </div>
+        </div>
     </body>
 </html>
