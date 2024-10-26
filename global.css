@@ -19,6 +19,7 @@
 body {
     color: var(--text-color);
     font-family: "Lexend Deca", serif;
+    overflow-x: hidden;
 }
 
 ul {
