@@ -53,6 +53,7 @@
 | [<img src="https://github.com/AdemirSoares.png" height="90px">](https://github.com/AdemirSoares) | Cristóvão Jakson Chaves Pereira | <div> [<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/AdemirSoares) <br/> [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cristóvão-jakson-pereira-8a5960123/) </div>|
 |  | João Augusto Rodrigues Bezerra | |
 |  | Gleicy Monalisa Martins da Silva | |
+|  | Bernardo Akin Chiusoli Mendes | |
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="25" height="25" /> Agradecimentos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" />
 
