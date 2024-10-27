@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marcar local para reflorestamento</title>
+
+    <link rel="stylesheet" href="./../../global.css">
+    <link rel="stylesheet" href="./CreateSocialAction.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Criar Uma Ação</h2>
+        <form id=" reflorestamento-form">
+
+            <label for="nome-ação">Nome da ação</label>
+            <input type="name" id="nome-ação" name="nome-ação" placeholder="Nome da Ação" required>
+
+            <label for="descricao">Descrição da Ação</label>
+            <input type="text" id="descricao" name="descricao" placeholder="Descrição breve da ação" required>
+
+            <label for="location">Localização</label>
+            <div class="map" id="map">
+                <p>Mapa iterativo(clique para demarcar)</p>
+            </div>
+
+            <div class="data-container">
+
+                <div>
+                    <label for="data-inicio">Data de inicio</label>
+                    <input type="date" id="data-inicio" name="data-inicio" required>
+                </div>
+
+                <div>
+                    <label for="data-fim">Data final</label>
+                    <input type="date" id="data-fim" name="data-fim" required>
+                </div>
+            </div>
+
+            <div class="buttons-container">
+                <button> <a href="../Home/home.html">  Voltar para home</a> </button>
+                <button type="submit">Criar Ação</button>
+            </div>
+        </form>
+    </div>
+
+    <div class="container" id="success-container" style="display: none;">
+        <div class="success-message">
+            <h2>Seu cadastro foi feito!</h2>
+        </div>
+    </div>
+    
+</body>

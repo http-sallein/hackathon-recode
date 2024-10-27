@@ -1,0 +1,121 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    padding: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    max-width: 600px;
+    width: 100%;
+}
+h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+}
+
+label {
+    font-size: 1rem;
+}
+
+input, select {
+    width: 100%;
+    padding: 1rem;
+    background: initial;
+    margin: 10px 0;
+    border: 1px solid var(--text-color);
+    border-radius: .5rem;
+    font-size: 1rem;
+    color: var(--text-color);
+    transition: all .2s ease;
+
+}
+
+input:focus {
+
+    border: 1px solid var(--primary-green);
+    outline: 1px solid var(--primary-green);
+}
+
+.data-container {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: .5rem;
+
+    > div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex: 1;
+
+        label {
+            text-wrap: nowrap;
+        }
+    }
+
+    
+}
+
+.buttons-container {
+
+    display: flex;
+    gap: 1rem;
+
+    button:first-child {
+
+        flex: 1;
+        border-radius: .5rem;
+        background-color: white;
+        border: 1.5px solid var(--primary-green);
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+
+        a {
+            color: var(--primary-green);
+        }
+    }
+
+    button:last-child {
+        flex: 1;
+        padding: 10px;
+        background-color: var(--primary-green);
+        color: white;
+        font-size: 1rem;
+        font-weight: 600;
+        border: none;
+        border-radius: .5rem;
+        cursor: pointer;
+        transition: all .2s ease;
+    }
+    button:last-child:hover {
+        background-color: #407c40;
+    }
+    
+
+}
+
+.map {
+    width: 100%;
+    height: 250px;
+    background-color: #eaeaea;
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #777;
+}
+
+.success-message {
+    text-align: center;
+    font-size: 1.5em;
+    color: #28a745;
+    padding: 20px;
+}
